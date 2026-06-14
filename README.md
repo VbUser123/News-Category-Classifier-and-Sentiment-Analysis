@@ -132,7 +132,7 @@ Performance was evaluated using:
 
 ### F1-Score Comparison
 
-![F1 Score Comparison](assets/model_f1 score_comparison.png)
+![F1 Score Comparison](assets/model_f1_score_comparison.png)
 
 After comparison, **Linear SVM** achieved the highest performance and was selected as the final model.
 
@@ -264,9 +264,9 @@ News_Category_Classifier/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/News-Category-Classifier.git
+git clone https://github.com/VbUser123/News-Category-Classifier-and-Sentiment-Analysis.git
 
-cd News-Category-Classifier
+cd News-Category-Classifier-and-Sentiment-Analysis
 ```
 
 Install dependencies:
